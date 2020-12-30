@@ -1,0 +1,60 @@
+{
+  "shares": [
+    {
+      "company": "APPL",
+      "sharePrices": 100,
+      "NumberShares": 500,
+      "order" : "BUY",
+      "area_codes": "11:15:33 06/24/2019"
+    },
+     {
+      "company": "APPL",
+      "sharePrices": 110,
+       "NumberShares": 350,
+      "order" : "SELL",
+      "area_codes": "11:15:33 06/25/2019"
+    },
+    {
+      "company": "APPL",
+      "sharePrices": 100,
+      "NumberShares": 100,
+      "order" : "CONFIRM",
+      "area_codes": "11:15:33 06/26/2019"
+    },
+    {
+      "company": "APPL",
+      "sharePrices": 100,
+      "NumberShares": 30,
+      "order" : "CANCEL",
+      "area_codes": "11:15:33 06/27/2019"
+    },
+      {
+      "company": "GOOGL",
+      "sharePrices": 120,
+      "NumberShares": 50,
+      "order" : "BUY",
+      "area_codes": "11:15:33 07/24/2019"
+    },
+     {
+      "company": "GOOGL",
+      "sharePrices": 121,
+      "NumberShares": 500,
+      "order" : "SELL",
+      "area_codes": "11:15:33 07/25/2019"
+    },
+    {
+      "company": "GOOGL",
+      "sharePrices": 122,
+      "NumberShares": 500,
+      "order" : "CONFIRM",
+      "area_codes": "11:15:33 07/26/2019"
+    },
+    {
+      "company": "GOOGL",
+      "sharePrices": 130,
+      "NumberShares": 500,
+      "order" : "CANCEL",
+      "area_codes": "11:15:33 07/27/2019"
+    }
+  ]
+}
